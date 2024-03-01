@@ -1,4 +1,4 @@
-# Supply Chain Analysis for Makeup Products
+# Supply Chain Analysis
 
 ## Description:
 This GitHub repository presents a comprehensive analysis of the supply chain for makeup products, focusing on optimizing efficiency, reducing costs, and enhancing customer satisfaction. The analysis utilizes a rich dataset collected from a Fashion and Beauty startup, encompassing various aspects of the supply chain process.
